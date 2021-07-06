@@ -9,6 +9,7 @@ In theory I want to learn how to
 * flesh out plans for development before I start to code (sketches, or diagrams)
 * Apply functional/class composition as ofter as possible
 * Understand Software Design Patterns better https://en.wikipedia.org/wiki/Software_design_pattern (if possible?) 
+  
 
 ## Previous work
 
@@ -26,7 +27,8 @@ attempt to serve data for drawing: https://editor.p5js.org/baylyd/sketches/soASN
 rebuild this in p5,
 https://github.com/DevinBayly/phone_chalk
 
-attempt is 
+attempt is here in html 5 canvas
+https://replit.com/@baylyd/chalkdrawing
 
 ### repl it sources
 
